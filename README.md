@@ -1,6 +1,3 @@
-# MacOS-Catalina_Vivobook-S13_S330FA_Clover
-Репозиторий хранит EFI-раздел загрузчика "Clover" под Asus Vivobook S13 S330FA. Tested on MacOS Catalina.
-
 # Awesome Hackintosh Mac OS Catalina on ***Asus Vivobook S13-S330FA***
 
 # System specification
@@ -26,6 +23,3 @@
 # What doesn't work?
   Wi-Fi - integrated adapter is not supported
   Speakers
-
-
-
