@@ -21,9 +21,10 @@
 # What doesn't work?
 1.Bluetooth  
 2.Card Reader (Maybe? not tested)  
-3.No HID for Asus fn-keys
+3.No HID for Asus fn-keys  
+4.Built-in Microphone
 
 # Problem solving
-1.If speakers do not work - check clover-arameters and replace "alcid=21" with "alcid=3"  
-2.-v for OS startup log  
-3.if Mac OS is not installed on the hard drive, replace the current EFI with ReEFI at the time of installation.
+1. If speakers do not work - check clover-arameters and replace "alcid=21" with "alcid=3"  
+2. -v for OS startup log  
+3. If Mac OS is not installed on the hard drive, replace the current EFI with ReEFI at the time of installation.
