@@ -21,7 +21,8 @@
 # What doesn't work?
 1.Bluetooth  
 2.Card Reader (Maybe? not tested)  
-3.No HID for Asus fn-keys 
+3.No HID for Asus fn-keys  
+4.if Mac OS is not installed on the hard drive, replace the current EFI with EFI-work! at the time of installation.
 
 # Problem solving
 1) if speakers do not work - check clover-arameters and replace "alcid=21" with "alcid=3"  
