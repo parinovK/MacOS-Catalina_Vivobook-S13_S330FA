@@ -1,4 +1,4 @@
-# Awesome Hackintosh Mac OS Catalina on ***Asus Vivobook S13-S330FA***
+# Mac OS Catalina on ***Asus Vivobook S13-S330FA***
 ![MacOS Catalina on Asus Vivobook S13 S330FA](https://github.com/parinovK/MacOS-Catalina_Vivobook-S13_S330FA_Clover/blob/main/MacOS_Catalina.png)
 # System specification
 
