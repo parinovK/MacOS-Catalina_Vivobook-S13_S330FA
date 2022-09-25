@@ -21,8 +21,7 @@
 # What doesn't work?
 1.Bluetooth  
 2.Card Reader (Maybe? not tested)  
-3.No HID for Asus fn-keys  
-4.Built-in Microphone
+3.Built-in Microphone
 
 # Problem solving
 1. If speakers do not work - check clover-arameters and replace "alcid=21" with "alcid=3"  
