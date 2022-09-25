@@ -12,16 +12,16 @@
     8.Touchpad:       ELAN1204
 
 # What is work?
-1.Wi-Fi (pls download HeliPort for connect to Wi-Fi - https://openintelwireless.github.io/HeliPort/)
-2.Speakers
-3.AirPlay (tested on Samsung TV)
-4.Keyboard & Touchpad
-5.Asus fn-keys (increase/decrease the brightness of the display, speaker volume, keyboard backlights, off touchpad).
+1.Wi-Fi (pls download HeliPort for connect to Wi-Fi - https://openintelwireless.github.io/HeliPort/)  
+2.Speakers  
+3.AirPlay (tested on Samsung TV)  
+4.Keyboard & Touchpad  
+5.Asus fn-keys (increase/decrease the brightness of the display, speaker volume, keyboard backlights, off touchpad)
 
 # What doesn't work?
-1.Bluetooth
+1.Bluetooth  
 2.Card Reader (Maybe? not tested)
 
 # Problem solving
-1) if speakers do not work - check clover-arameters and replace "alcid=21" with "alcid=3"
+1) if speakers do not work - check clover-arameters and replace "alcid=21" with "alcid=3"  
 2) -v for OS startup log
