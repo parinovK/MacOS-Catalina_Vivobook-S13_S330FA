@@ -12,14 +12,16 @@
     8.Touchpad:       ELAN1204
 
 # What is work?
-
-    All works PERFECTLY!!
-    Bluetooth works
-    Touchpad perfect
-    Keyboard perfect
-    Screen works perfect
-    it's really looks like Macbook PRO!
+Wi-Fi (pls download HeliPort for connect to Wi-Fi - https://openintelwireless.github.io/HeliPort/)
+Speakers
+AirPlay (tested on Samsung TV)
+Keyboard & Touchpad
+Asus fn-keys (increase/decrease the brightness of the display, speaker volume, keyboard backlights, off touchpad).
 
 # What doesn't work?
-  Wi-Fi - integrated adapter is not supported
-  Speakers
+  Bluetooth
+  Card Reader (Maybe? not tested)
+
+# Problem solving
+1) if speakers do not work - check clover-arameters and replace "alcid=21" with "alcid=3"
+2) -v for OS startup log
