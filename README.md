@@ -12,18 +12,16 @@
     8.Touchpad:       ELAN1204
 
 # What is work?
-1.Wi-Fi (pls download HeliPort for connect to Wi-Fi - https://openintelwireless.github.io/HeliPort/)  
+1.Wi-Fi (pls download HeliPort for connect to Wi-Fi - https://openintelwireless.github.io/HeliPort/) + Bluetooth  
 2.Speakers  
 3.AirPlay (tested on Samsung TV)  
 4.Keyboard & Touchpad  
-5.Asus fn-keys (increase/decrease the brightness of the display, speaker volume, keyboard backlights, off touchpad)
+5.Asus fn-keys (increase/decrease the brightness of the display, speaker volume, keyboard backlights, off touchpad)  
+6.Built-in Microphone
 
 # What doesn't work?
-1.Bluetooth  
-2.Card Reader (Maybe? not tested)  
-3.Built-in Microphone
+1.Card Reader (Maybe? not tested)  
 
 # Problem solving
-1. If speakers do not work - check clover-parameters and replace "alcid=21" with "alcid=3"  
-2. -v for OS startup log  
-3. If Mac OS is not installed on the hard drive, replace the current EFI with ReEFI at the time of installation.
+1. -v for OS startup log  
+2. If Mac OS is not installed on the hard drive, replace the current EFI with ReEFI at the time of installation.
